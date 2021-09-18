@@ -1,0 +1,54 @@
+
+.container{
+    border: 10px solid black;  
+    box-sizing: content-box;          
+}
+#header {
+     
+ }
+ #nav
+ {
+     background-color: burlywood;
+ }
+ #nav ul 
+{
+     list-style: none;
+ }
+ #nav ul li{
+     display: inline-block;
+     margin: 5px;
+    
+ }
+ #contant {
+     background-color: cornflowerblue;
+ }
+ #sidebar
+ {
+     background-color:grey;
+ }
+ #sidebar ul li a{
+     color: red;
+ }
+ #footer{
+     background-color: pink;
+ }
+.row{ 
+    border: 5px solid red;   
+}
+.col , .col-1 , .col-2 ,.col-3 , .col-4, .col-5 ,.col-6, .col-7, .col-8 , .col-9 ,.col-10 , .col-11 , .col-12
+{
+    border: 5px solid yellow;
+}
+.pink{
+    background: pink;
+}
+.orange{
+    background: orange;
+
+}
+.blue{
+    background: blue;
+}
+.green{
+    background: green;
+}
